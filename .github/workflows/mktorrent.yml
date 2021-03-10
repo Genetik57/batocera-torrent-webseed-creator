@@ -7,115 +7,115 @@ on:
 env:
   name_1: "batocera-odroidc2-30-20210302"
   comment_1: "By Genetik57 for batocera.org"
-  url_1: "https://pixeldrain.com/api/file/bbGTSp2p?download"
+  url_1: "http://mirrors.o2switch.fr/batocera/odroidc2/stable/last/images/batocera-odroidc2-30-20210302.img.gz"
   file_name_1: "batocera-odroidc2-30-20210302.img.gz"
   piece_size_1: 19 # Check the README.md for recommended piece size
 
   name_2: "batocera-odroidn2-30-20210302"
   comment_2: "By Genetik57 for batocera.org"
-  url_2: "https://pixeldrain.com/api/file/7BFTrj1b?download"
+  url_2: "http://mirrors.o2switch.fr/batocera/odroidn2/stable/last/images/batocera-odroidn2-30-20210302.img.gz"
   file_name_2: "batocera-odroidn2-30-20210302.img.gz"
   piece_size_2: 19 # Check the README.md for recommended piece size
 
   name_3: "batocera-odroidgoa-30-20210302"
   comment_3: "By Genetik57 for batocera.org"
-  url_3: "https://pixeldrain.com/api/file/y7YETjVb?download"
+  url_3: "http://mirrors.o2switch.fr/batocera/odroidgoa/stable/last/images/batocera-odroidgoa-30-20210302.img.gz"
   file_name_3: "batocera-odroidgoa-30-20210302.img.gz"
   piece_size_3: 19 # Check the README.md for recommended piece size
 
   name_4: "batocera-xu4-30-20210302"
   comment_4: "By Genetik57 for batocera.org"
-  url_4: "https://pixeldrain.com/api/file/Zkoi6u1d?download"
+  url_4: "http://mirrors.o2switch.fr/batocera/odroidxu4/stable/last/images/batocera-xu4-30-20210302.img.gz"
   file_name_4: "batocera-xu4-30-20210302.img.gz"
   piece_size_4: 19 # Check the README.md for recommended piece size
 
   name_5: "batocera-orangepi_pc-30-20210302"
   comment_5: "By Genetik57 for batocera.org"
-  url_5: "https://pixeldrain.com/api/file/5GKi8XEV?download"
+  url_5: "http://mirrors.o2switch.fr/batocera/orangepi-pc/stable/last/images/batocera-orangepi_pc-30-20210302.img.gz"
   file_name_5: "batocera-orangepi_pc-30-20210302.img.gz"
   piece_size_5: 19 # Check the README.md for recommended piece size
 
   name_6: "batocera-rock960-30-20210305"
   comment_6: "By Genetik57 for batocera.org"
-  url_6: "https://pixeldrain.com/api/file/thri6jAW?download"
+  url_6: "http://mirrors.o2switch.fr/batocera/rock960/stable/last/rc/images/batocera-rock960-30-20210305.img.gz"
   file_name_6: "batocera-rock960-30-20210305.img.gz"
   piece_size_6: 19 # Check the README.md for recommended piece size
 
   name_7: "batocera-rpi1-30-20210302"
   comment_7: "By Genetik57 for batocera.org"
-  url_7: "https://pixeldrain.com/api/file/rH4Wgihc?download"
+  url_7: "http://mirrors.o2switch.fr/batocera/rpi1/stable/last/images/batocera-rpi1-30-20210302.img.gz"
   file_name_7: "batocera-rpi1-30-20210302.img.gz"
   piece_size_7: 19 # Check the README.md for recommended piece size
 
   name_8: "batocera-rpi2-30-20210302"
   comment_8: "By Genetik57 for batocera.org"
-  url_8: "https://pixeldrain.com/api/file/86EGPG66?download"
+  url_8: "http://mirrors.o2switch.fr/batocera/rpi2/stable/last/images/batocera-rpi2-30-20210302.img.gz"
   file_name_8: "batocera-rpi2-30-20210302.img.gz"
   piece_size_8: 19 # Check the README.md for recommended piece size
 
   name_9: "batocera-rpi3-30-20210302"
   comment_9: "By Genetik57 for batocera.org"
-  url_9: "https://pixeldrain.com/api/file/fNWSiXuL?download"
+  url_9: "http://mirrors.o2switch.fr/batocera/rpi3/stable/last/images/batocera-rpi3-30-20210302.img.gz"
   file_name_9: "batocera-rpi3-30-20210302.img.gz"
   piece_size_9: 19 # Check the README.md for recommended piece size
 
   name_10: "batocera-rpi4-30-20210302"
   comment_10: "By Genetik57 for batocera.org"
-  url_10: "https://pixeldrain.com/api/file/LHmqJQeA?download"
+  url_10: "http://mirrors.o2switch.fr/batocera/rpi4/stable/last/batocera-29-rpi4-20201203.img.gz"
   file_name_10: "batocera-rpi4-30-20210302.img.gz"
   piece_size_10: 19 # Check the README.md for recommended piece size
 
   name_11: "batocera-s905-30-20210302"
   comment_11: "By Genetik57 for batocera.org"
-  url_11: "https://pixeldrain.com/api/file/aA7MhFBs?download"
+  url_11: "http://mirrors.o2switch.fr/batocera/s905/stable/last/images/batocera-s905-30-20210302.img.gz"
   file_name_11: "batocera-s905-30-20210302.img.gz"
   piece_size_11: 19 # Check the README.md for recommended piece size
 
   name_12: "batocera-s912-30-20210302"
   comment_12: "By Genetik57 for batocera.org"
-  url_12: "https://pixeldrain.com/api/file/v85cxNbQ?download"
+  url_12: "http://mirrors.o2switch.fr/batocera/s912/stable/last/images/batocera-s912-30-20210302.img.gz"
   file_name_12: "batocera-s912-30-20210302.img.gz"
   piece_size_12: 19 # Check the README.md for recommended piece size
 
   name_13: "batocera-x86-30-20210302"
   comment_13: "By Genetik57 for batocera.org"
-  url_13: "https://pixeldrain.com/api/file/txMubjNz?download"
+  url_13: "http://mirrors.o2switch.fr/batocera/x86/stable/last/images/batocera-x86-30-20210302.img.gz"
   file_name_13: "batocera-x86-30-20210302.img.gz"
   piece_size_13: 20 # Check the README.md for recommended piece size
 
   name_14: "batocera-vim3-30-20210302"
   comment_14: "By Genetik57 for batocera.org"
-  url_14: "https://pixeldrain.com/api/file/1qZUZU2K?download"
+  url_14: "http://mirrors.o2switch.fr/batocera/vim3/stable/last/images/batocera-vim3-30-20210302.img.gz"
   file_name_14: "batocera-vim3-30-20210302.img.gz"
   piece_size_14: 19 # Check the README.md for recommended piece size
 
   name_15: "batocera-x86_64-30-20210302"
   comment_15: "By Genetik57 for batocera.org"
-  url_15: "https://pixeldrain.com/api/file/TNw1eX7u?download"
+  url_15: "http://mirrors.o2switch.fr/batocera/x86_64/stable/last/images/batocera-x86_64-30-20210302.img.gz"
   file_name_15: "batocera-x86_64-30-20210302.img.gz"
   piece_size_15: 20 # Check the README.md for recommended piece size
 
   name_16: "batocera-libretech_h5-30-20210302"
   comment_16: "By Genetik57 for batocera.org"
-  url_16: "https://pixeldrain.com/api/file/RwweG9r8?download"
+  url_16: "http://mirrors.o2switch.fr/batocera/libretech-h5/stable/last/images/batocera-libretech_h5-30-20210302.img.gz
   file_name_16: "batocera-libretech_h5-30-20210302.img.gz"
   piece_size_16: 19 # Check the README.md for recommended piece size
 
   name_17: "batocera-miqi-30-20210302"
   comment_17: "By Genetik57 for batocera.org"
-  url_17: "https://pixeldrain.com/api/file/wUKh9fzt?download"
+  url_17: "http://mirrors.o2switch.fr/batocera/miqi/stable/last/batocera-29-miqi-20201203.img.gz"
   file_name_17: "batocera-miqi-30-20210302.img.gz"
   piece_size_17: 19 # Check the README.md for recommended piece size
 
   name_18: "batocera-odroidc4-30-20210302"
   comment_18: "By Genetik57 for batocera.org"
-  url_18: "https://pixeldrain.com/api/file/L5xGjXjx?download"
+  url_18: "http://mirrors.o2switch.fr/batocera/odroidc4/stable/last/batocera-29-odroidc4-20201203.img.gz"
   file_name_18: "batocera-odroidc4-30-20210302.img.gz"
   piece_size_18: 19 # Check the README.md for recommended piece size
   
   name_19: "batocera-tinkerboard-30-20210302"
   comment_19: "By Genetik57 for batocera.org"
-  url_19: "https://pixeldrain.com/api/file/NKUVLSCN?download"
+  url_19: "http://mirrors.o2switch.fr/batocera/tinkerboard/beta/last/images/batocera-tinkerboard-30-20210302.img.gz"
   file_name_19: "batocera-tinkerboard-30-20210302.img.gz"
   piece_size_19: 19 # Check the README.md for recommended piece size
 
