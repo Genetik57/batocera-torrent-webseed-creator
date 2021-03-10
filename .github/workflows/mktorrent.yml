@@ -97,7 +97,7 @@ env:
 
   name_16: "batocera-libretech_h5-30-20210302"
   comment_16: "By Genetik57 for batocera.org"
-  url_16: "http://mirrors.o2switch.fr/batocera/libretech-h5/stable/last/images/batocera-libretech_h5-30-20210302.img.gz
+  url_16: "http://mirrors.o2switch.fr/batocera/libretech-h5/stable/last/images/batocera-libretech_h5-30-20210302.img.gz"
   file_name_16: "batocera-libretech_h5-30-20210302.img.gz"
   piece_size_16: 19 # Check the README.md for recommended piece size
 
