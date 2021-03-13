@@ -61,7 +61,7 @@ env:
 
   name_10: "batocera-rpi4-30-20210302"
   comment_10: "By Genetik57 for batocera.org"
-  url_10: "http://mirrors.o2switch.fr/batocera/rpi4/stable/last/batocera-29-rpi4-20201203.img.gz"
+  url_10: "http://mirrors.o2switch.fr/batocera/rpi4/beta/last/images/batocera-rpi4-30-20210302.img.gz"
   file_name_10: "batocera-rpi4-30-20210302.img.gz"
   piece_size_10: 19 # Check the README.md for recommended piece size
 
@@ -103,13 +103,13 @@ env:
 
   name_17: "batocera-miqi-30-20210302"
   comment_17: "By Genetik57 for batocera.org"
-  url_17: "http://mirrors.o2switch.fr/batocera/miqi/stable/last/batocera-29-miqi-20201203.img.gz"
+  url_17: "http://mirrors.o2switch.fr/batocera/miqi/stable/last/images/batocera-miqi-30-20210311.img.gz"
   file_name_17: "batocera-miqi-30-20210302.img.gz"
   piece_size_17: 19 # Check the README.md for recommended piece size
 
   name_18: "batocera-odroidc4-30-20210302"
   comment_18: "By Genetik57 for batocera.org"
-  url_18: "http://mirrors.o2switch.fr/batocera/odroidc4/stable/last/batocera-29-odroidc4-20201203.img.gz"
+  url_18: "http://mirrors.o2switch.fr/batocera/odroidc4/beta/last/images/batocera-odroidc4-30-20210302.img.gz"
   file_name_18: "batocera-odroidc4-30-20210302.img.gz"
   piece_size_18: 19 # Check the README.md for recommended piece size
   
